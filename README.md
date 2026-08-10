@@ -1,24 +1,25 @@
-Past You is a puzzle platformer based on time.
-You have to cooperate with your past self to reach the goal.
+PAST YOU es un juego construido en el motor Godot.
+Como desarrollador es el primer juego real y completo que publico.
+Tienes que cooperar con tus movimientos pasados para alcanzar el objetivo (puerta dorada o marrón)
 
-First reach the yellow goal, then return to the brown goal while your past self repeats your previous actions.
+Primero debes alcanzar la amarilla, luego devolverte hasta donde empezaste (puerta marrón) mientras otro presonaje repite todas tus acciones previas.
 
-Avoid spikes, dodge canyon bullets, activate buttons to control doors, and collect coins to be able to enter the goals.
-
-
-
-
-Controls:
-Move: Arrow Keys / WASD
-
-Jump: Space / W / Up Key
-
-Restart Level: R
-
-Open Menu: Escape
+Tutorial, Gameplay Walkthrough por si no puedes pasar uno de los niveles: https://www.youtube.com/watch?v=MLajSb6NUbU&t=105s.
+Evita los pinchos, esquiva las balas de los cañones, usa los botones para abrir o cerrar puertas y recolecta todas las monedas no transparentes para entrar a tu meta.
+(Recuerda que puedes colisionar con tu "personaje pasado" y puedes usarlo como herramienta)
 
 
 
-Good luck finding the right path!
+Controles:
+Movimiento: Flechas del teclado / WASD
 
-itch.io link (Windows and android version): https://maggio-ez.itch.io/past-you
+Saltar: Espacio / W / Flecha Arriba
+
+Reiniciar Nivel: R
+
+Abrir menú: Escape
+
+
+
+Buena suerte encontrando los caminos y conviviendo con PAST YOU!
+itch.io link (versión exe de Windows y Apk de Android): https://maggio-ez.itch.io/past-you
