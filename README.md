@@ -5,6 +5,7 @@ Tienes que cooperar con tus movimientos pasados para alcanzar el objetivo (puert
 Primero debes alcanzar la amarilla, luego devolverte hasta donde empezaste (puerta marrón) mientras otro presonaje repite todas tus acciones previas.
 
 Tutorial, Gameplay Walkthrough por si no puedes pasar uno de los niveles: https://www.youtube.com/watch?v=MLajSb6NUbU&t=105s.
+
 Evita los pinchos, esquiva las balas de los cañones, usa los botones para abrir o cerrar puertas y recolecta todas las monedas no transparentes para entrar a tu meta.
 (Recuerda que puedes colisionar con tu "personaje pasado" y puedes usarlo como herramienta)
 
